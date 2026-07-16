@@ -20,6 +20,10 @@ Based in Port Huron, Michigan · Independent · Scout Consultatory
 | [Scout Consultatory](https://github.com/worobi/scout-consultatory) | AI-enhanced consulting and modern web experiences for small businesses. |
 | [High Functioning Chaos](https://github.com/worobi/highfunctioningchaos.living) | Planners, templates, resources, and honest chaos-management tools for real life. |
 | [HovelMatch](https://github.com/worobi/HovelMatch.xyz) | A satirical co-habitation matching experience for the beautifully underfunded. |
+| [Moni's Munchies](https://github.com/worobi/MM-website) | A small-business website for baked goods, online orders, events, and cottage-food information. |
+| [Worobi.com](https://github.com/worobi/worobi.com) | The Worobi family hub and personal-site directory. |
+| [Velvet Grimoire](https://github.com/worobi/velvetgrimore.xyz) | An 18+ tabletop companion for maps, player notes, dice rolls, and session play. |
+| [Resume Site](https://github.com/worobi/Resume_Site) | A Next.js and React resume and portfolio site. |
 
 ## Around the web
 
